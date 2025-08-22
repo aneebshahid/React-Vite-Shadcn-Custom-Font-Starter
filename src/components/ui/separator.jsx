@@ -1,0 +1,1 @@
+export function Separator(){ return <hr className="border-border my-6" /> }
